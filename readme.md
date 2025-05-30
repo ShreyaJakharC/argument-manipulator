@@ -1,6 +1,6 @@
 # Argument Manipulator
 
-A command-line tool written in C that reads each supplied argument and prints it in three forms: original, uppercase, and lowercase.
+A command-line tool written in C that reads each supplied argument and prints it in three forms: original, uppercase, and lowercase. I learned and gained the skills to complete this project from my operating systems course.
 
 ## Objective
 
